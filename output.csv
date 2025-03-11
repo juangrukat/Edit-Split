@@ -1,0 +1,16 @@
+This is a test file for our sentence splitter. It contains various edge cases.
+[PARAGRAPH BREAK]
+Dr. Smith arrived at 4 p.m. to see Mr. Jones. He was carrying his Ph.D. thesis.
+[PARAGRAPH BREAK]
+"""Is this working?"" she asked. ""I hope so!"" he replied."
+[PARAGRAPH BREAK]
+I don't know... maybe tomorrow?
+Let's see what happens.
+[PARAGRAPH BREAK]
+"He devised a clever plan, enlisting animals as his crafty trap: tortoises, terrapins, and all sorts of crawling creatures..."
+[PARAGRAPH BREAK]
+"...but the younger brother, well-acquainted with the tricks of these animals, evaded capture."
+[PARAGRAPH BREAK]
+He left. (She wasn't happy about it.) But life goes on.
+[PARAGRAPH BREAK]
+This is the U.S. standard. And this is the U.K. version.
